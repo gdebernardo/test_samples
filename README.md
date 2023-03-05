@@ -23,3 +23,8 @@ fib03 is Python code. It works with any python3 distribution
 
 To execute, in folder fib03, run: `python3 fib.py <n>` (where n is the Fibonacci number desired)
 
+#### fib04
+fib04 is Javascript code. It works with node.js 
+
+To execute, in folder fib04, run: `node fib04.js <n>` (where n is the Fibonacci number desired)
+
