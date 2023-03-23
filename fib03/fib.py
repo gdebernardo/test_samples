@@ -30,5 +30,5 @@ if __name__ == "__main__":
         
     end = time.time()
     t = end - ini
-    print(f"Got {res}, time per iteration: {t/1000000}") 
+    print(f"Got {res}, time per iteration: {t/1000000:.15f}") 
     t = end - ini
